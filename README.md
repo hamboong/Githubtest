@@ -4,6 +4,7 @@
 딥러닝은 CNN을 사용하였으며, 데이터는 0~9의 숫자 이미지로 이루어진 MNIST train 6만장 test 3만장으로 사용하였다. 
 
 결과 이미지는
+
 ![output](https://github.com/user-attachments/assets/7175d31f-e7e2-4563-a8e7-b3b81c840c50) 처럼 나왔다.
 
 전체 설계도는 
